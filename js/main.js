@@ -27,7 +27,7 @@ function addProduct(){
         clearrom()
         displayProduct(productsContainer)
     }else{
-        alert("Error")
+        alert("Add Product Informations")
     }
   
 }
